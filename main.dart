@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_quiz/pages/quiz.dart';
 import 'package:flutter_quiz/pages/result.dart';
-import 'package:flutter_quiz/pages/start..dart';
+import 'package:flutter_quiz/pages/start.dart';
 
 void main() {
   runApp(const MyApp());
