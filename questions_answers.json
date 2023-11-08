@@ -1,0 +1,67 @@
+{
+  "question_answer_pairs": [
+    {
+      "question": "was ist das beste Framework?",
+      "answers": [
+        {
+          "answer": "Flutter",
+          "validity": true
+        },
+        {
+          "answer": "Angular",
+          "validity": false
+        },
+        {
+          "answer": "React",
+          "validity": false
+        },
+        {
+          "answer": "Vue",
+          "validity": false
+        }
+      ]
+    },
+    {
+      "question": "was heist der ! operator in flutter?",
+      "answers": [
+        {
+          "answer": "diese variable ist wichtig",
+          "validity": false
+        },
+        {
+          "answer": "trust me bro (zum compiler)",
+          "validity": true
+        },
+        {
+          "answer": "bro what",
+          "validity": false
+        },
+        {
+          "answer": "¯\\_(ツ)_/¯",
+          "validity": false
+        }
+      ]
+    },
+    {
+      "question": "rechne das unbestimmte integral dieser funktion aus: f(x) = -0.00455 x^(4)+0.091 x^(3)-0.7686 x^(2)+3.1271 x+1.9",
+      "answers": [
+        {
+          "answer": "ich will nicht mehr",
+          "validity": false
+        },
+        {
+          "answer": "ich kann nicht mehr",
+          "validity": true
+        },
+        {
+          "answer": "ich halte es nicht mehr aus",
+          "validity": false
+        },
+        {
+          "answer": "F(x) = -0.00091 x^(5) + 0.02275x^(4) - 0.2562x^(3) + 1.56355x^(2) + 1.9x",
+          "validity": true
+        }
+      ]
+    }
+  ]
+}
